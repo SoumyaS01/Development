@@ -8,7 +8,7 @@ class Exception1
     {
         Scanner sobj = new Scanner(System.in);
 
-        System.out.println("Please enter first number: ");
+        System.out.println("Please enter first number: ");  //   comment
         int no1 =sobj.nextInt();
 
         System.out.println("Please enter second number: ");
